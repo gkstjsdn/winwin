@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\h\\winwin\\windows\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0D1C0-E5CB-4CBB-8E55-99869CD2D8F5}|windows\\windows.vcxproj|C:\\h\\winwin\\windows\\windows\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13B0D1C0-E5CB-4CBB-8E55-99869CD2D8F5}|windows\\windows.vcxproj|solutionrelative:windows\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13B0D1C0-E5CB-4CBB-8E55-99869CD2D8F5}|windows\\windows.vcxproj|C:\\h\\winwin\\windows\\windows\\winconsol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{13B0D1C0-E5CB-4CBB-8E55-99869CD2D8F5}|windows\\windows.vcxproj|solutionrelative:windows\\winconsol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "winconsol.c",
+              "DocumentMoniker": "C:\\h\\winwin\\windows\\windows\\winconsol.c",
+              "RelativeDocumentMoniker": "windows\\winconsol.c",
+              "ToolTip": "C:\\h\\winwin\\windows\\windows\\winconsol.c",
+              "RelativeToolTip": "windows\\winconsol.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T09:04:35.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\h\\winwin\\windows\\windows\\main.c",
+              "RelativeDocumentMoniker": "windows\\main.c",
+              "ToolTip": "C:\\h\\winwin\\windows\\windows\\main.c",
+              "RelativeToolTip": "windows\\main.c",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAswFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-07T09:04:22.899Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
