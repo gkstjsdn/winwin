@@ -52,10 +52,12 @@ void DrawWindow(struct Window win)
     }
 }
 
-int main() {
+int main() 
+{
     int width, height;
 
-    while (1) {
+    while (1) 
+    {
         printf("가로: ");
         scanf_s("%d", &width);
         printf("세로: ");
@@ -69,9 +71,11 @@ int main() {
     system("cls");
 
     printf("\033[42m");
-    for (int y = 0; y < 20; y++) {
+    for (int y = 0; y < 20; y++) 
+    {
         gotoxy(0, y);
-        for (int x = 0; x < 120; x++) {
+        for (int x = 0; x < 120; x++)
+        {
             printf(" ");
         }
     }
