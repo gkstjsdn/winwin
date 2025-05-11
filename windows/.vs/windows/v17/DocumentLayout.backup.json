@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\h\\winwin\\windows\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D99B9E2-DAE4-4536-A957-5A93243A8225}|windows2\\windows2.vcxproj|C:\\h\\winwin\\windows\\windows2\\main2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4D99B9E2-DAE4-4536-A957-5A93243A8225}|windows2\\windows2.vcxproj|solutionrelative:windows2\\main2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{57FDFD13-0176-4092-9BB5-867C81467098}|windows3\\windows3.vcxproj|C:\\h\\winwin\\windows\\windows3\\main4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57FDFD13-0176-4092-9BB5-867C81467098}|windows3\\windows3.vcxproj|solutionrelative:windows3\\main4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13B0D1C0-E5CB-4CBB-8E55-99869CD2D8F5}|windows\\windows.vcxproj|C:\\h\\winwin\\windows\\windows\\winconsol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{13B0D1C0-E5CB-4CBB-8E55-99869CD2D8F5}|windows\\windows.vcxproj|solutionrelative:windows\\winconsol.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2FC8DD74-59D8-4987-89E6-A87BA4337204}|20221419\\20221419.vcxproj|C:\\h\\winwin\\windows\\20221419\\mywin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FC8DD74-59D8-4987-89E6-A87BA4337204}|20221419\\20221419.vcxproj|solutionrelative:20221419\\mywin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13B0D1C0-E5CB-4CBB-8E55-99869CD2D8F5}|windows\\windows.vcxproj|C:\\h\\winwin\\windows\\windows\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{13B0D1C0-E5CB-4CBB-8E55-99869CD2D8F5}|windows\\windows.vcxproj|solutionrelative:windows\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2FC8DD74-59D8-4987-89E6-A87BA4337204}|20221419\\20221419.vcxproj|C:\\h\\winwin\\windows\\20221419\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FC8DD74-59D8-4987-89E6-A87BA4337204}|20221419\\20221419.vcxproj|solutionrelative:20221419\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8DD74-59D8-4987-89E6-A87BA4337204}|20221419\\20221419.vcxproj|C:\\h\\winwin\\windows\\20221419\\mywin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FC8DD74-59D8-4987-89E6-A87BA4337204}|20221419\\20221419.vcxproj|solutionrelative:20221419\\mywin.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main2.c",
-              "DocumentMoniker": "C:\\h\\winwin\\windows\\windows2\\main2.c",
-              "RelativeDocumentMoniker": "windows2\\main2.c",
-              "ToolTip": "C:\\h\\winwin\\windows\\windows2\\main2.c",
-              "RelativeToolTip": "windows2\\main2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\h\\winwin\\windows\\20221419\\main.c",
+              "RelativeDocumentMoniker": "20221419\\main.c",
+              "ToolTip": "C:\\h\\winwin\\windows\\20221419\\main.c",
+              "RelativeToolTip": "20221419\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-13T06:21:25.098Z",
+              "WhenOpened": "2025-04-23T04:40:02.972Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mywin.c",
+              "DocumentMoniker": "C:\\h\\winwin\\windows\\20221419\\mywin.c",
+              "RelativeDocumentMoniker": "20221419\\mywin.c",
+              "ToolTip": "C:\\h\\winwin\\windows\\20221419\\mywin.c",
+              "RelativeToolTip": "20221419\\mywin.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-04-23T04:40:18.128Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main4.c",
+              "DocumentMoniker": "C:\\h\\winwin\\windows\\windows3\\main4.c",
+              "RelativeDocumentMoniker": "windows3\\main4.c",
+              "ToolTip": "C:\\h\\winwin\\windows\\windows3\\main4.c",
+              "RelativeToolTip": "windows3\\main4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-11T12:26:14.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "winconsol.c",
-              "DocumentMoniker": "C:\\h\\winwin\\windows\\windows\\winconsol.c",
-              "RelativeDocumentMoniker": "windows\\winconsol.c",
-              "ToolTip": "C:\\h\\winwin\\windows\\windows\\winconsol.c",
-              "RelativeToolTip": "windows\\winconsol.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T09:04:35.029Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.c",
-              "DocumentMoniker": "C:\\h\\winwin\\windows\\windows\\main.c",
-              "RelativeDocumentMoniker": "windows\\main.c",
-              "ToolTip": "C:\\h\\winwin\\windows\\windows\\main.c",
-              "RelativeToolTip": "windows\\main.c",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAFcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-04-07T09:04:22.899Z"
+              "Title": "mywin.h",
+              "DocumentMoniker": "C:\\h\\winwin\\windows\\20221419\\mywin.h",
+              "RelativeDocumentMoniker": "20221419\\mywin.h",
+              "ToolTip": "C:\\h\\winwin\\windows\\20221419\\mywin.h",
+              "RelativeToolTip": "20221419\\mywin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-23T04:54:52.2Z"
             }
           ]
         }
